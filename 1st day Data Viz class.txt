@@ -1,0 +1,5 @@
+1. Data Visualization is information
+2. It allows upper management to understand the data
+3. C level executives need storying telling to explain the data
+4. I want to be able to use data visualization to understand what is happening to the equipment I work.
+5. Some mangers might be used to the old method of tables.
